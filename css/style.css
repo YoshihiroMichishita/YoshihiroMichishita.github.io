@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Meiryo', 'Hiragino Sans';
+}
+h1 {
+    border-bottom: 3px solid #bbf1ef;
+    box-sizing: border-box;
+    padding: 1% 0;
+    margin: 3% auto;
+    width: 90%;
+    text-align: center;
+}
+
+li {
+    text-decoration:underline;
+    /*
+    background-color: rgb(105, 168, 226);
+    color: #ffffff;
+    padding: 0 8px;
+    display: block;
+    width: 35%;
+    text-align: center;*/
+}
