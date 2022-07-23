@@ -140,6 +140,13 @@ aside {
     align-content: center;
     border-radius: 10px;
 }
+.scroll-box {
+    width: 90%;
+    height: 150px;
+    margin: 0 auto 50px;
+    overflow: scroll;
+    background: #ffffff;
+}
 /*
 summary {
     padding-left: 1px 0 2px 23px;
